@@ -56,3 +56,20 @@ nav input {
 nav input::placeholder {
     color: #b5b8c8;
 }
+
+/*rodapé*/
+
+/* Rodapé */
+footer {
+    background-color: #171923;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+}
+
+footer p {
+    margin: 8px;
+    font-size: 14px;
+}
