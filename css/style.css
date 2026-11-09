@@ -26,7 +26,6 @@ nav ul {
 nav a {
     color: #ffffff;
     text-decoration: none;
-    font-family: Arial, sans-serif;
     font-size: 15px;
 }
 
@@ -73,3 +72,15 @@ footer p {
     margin: 8px;
     font-size: 14px;
 }
+
+.lista img{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
